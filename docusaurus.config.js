@@ -84,6 +84,18 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'cheat',
+        path: 'cheat',
+        routeBasePath: 'cheat',
+        sidebarPath: './sidebarsCheat.js',
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -119,6 +131,14 @@ const config = {
             position: 'left',
             // 显示标签
             label: '文档',
+          },
+          
+          {
+            type: 'docSidebar',
+            sidebarId: 'cheatSidebar',
+            docsPluginId: 'cheat',
+            position: 'left',
+            label: '科技分享',
           },
           // 博客链接，位置在左侧
           {to: '/blog', label: '博客', position: 'left'},
