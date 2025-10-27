@@ -21,7 +21,7 @@ const sidebars = {
   // 手动创建侧边栏配置
   tutorialSidebar: [
     // 主页介绍
-    'pydendocs',
+    'intro',
 
     // 前端开发相关
     {

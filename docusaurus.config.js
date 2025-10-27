@@ -74,6 +74,10 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-DLCFPGFVZR',
+          anonymizeIP: true,
+        },
         sitemap: {
           filename: 'sitemap.xml',
           changefreq: 'weekly',
@@ -138,7 +142,7 @@ const config = {
             sidebarId: 'cheatSidebar',
             docsPluginId: 'cheat',
             position: 'left',
-            label: '科技分享',
+            label: '游戏作弊分享',
           },
           // 博客链接，位置在左侧
           {to: '/blog', label: '博客', position: 'left'},
