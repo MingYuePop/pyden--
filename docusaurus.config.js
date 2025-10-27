@@ -56,7 +56,7 @@ const config = {
           // 请将此更改为你自己的仓库。
           // 移除此项可删除"编辑此页面"链接。
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/MingYuePop/pyden--',
         },
         blog: {
           showReadingTime: true,
@@ -67,7 +67,7 @@ const config = {
           // 请将此更改为你自己的仓库。
           // 移除此项可删除"编辑此页面"链接。
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/MingYuePop/pyden--',
           // 强制执行博客最佳实践的有用选项
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -152,7 +152,7 @@ const config = {
           {to: '/blog', label: '博客', position: 'left'},
           {
             // GitHub 链接，位置在右侧
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/MingYuePop/pyden--',
             label: 'GitHub',
             position: 'right',
           },
