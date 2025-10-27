@@ -8,7 +8,15 @@ const sidebars = {
       type: 'category',
       label: '和平精英',
       items: [
-        'hpjy/2024-5-3',    // 创建文档
+        'hpjy/intro',    // 创建文档
+      ],
+    },
+    // PUBG移动端
+    {
+      type: 'category',
+      label: 'PUBG移动端',
+      items: [
+        'pubgmobile/intro',    // 创建文档
       ],
     }
   ],
