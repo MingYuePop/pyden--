@@ -8,7 +8,16 @@ const sidebars = {
       type: 'category',
       label: '和平精英',
       items: [
-        'hpjy/intro',    // 创建文档
+        // 页面介绍
+        'hpjy/intro',
+        // 2025年10月
+        {
+          type: 'category',
+          label: '2025/10',
+          items: [
+            'hpjy/2025/10/REandPeaceFilePublicWelfarePAKV11/index',    // 创建文档
+          ],
+        },  
       ],
     },
     // PUBG移动端

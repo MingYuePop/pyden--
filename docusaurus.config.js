@@ -51,6 +51,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           // 请将此更改为你自己的仓库。
           // 移除此项可删除"编辑此页面"链接。
           editUrl:
@@ -96,6 +98,8 @@ const config = {
         path: 'cheat',
         routeBasePath: 'cheat',
         sidebarPath: './sidebarsCheat.js',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
       },
     ],
   ],
