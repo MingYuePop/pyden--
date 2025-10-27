@@ -18,6 +18,14 @@ const sidebars = {
       items: [
         'pubgmobile/intro',    // 创建文档
       ],
+    },
+    // 其他游戏
+    {
+      type: 'category',
+      label: '其他游戏',
+      items: [
+        'other/intro',
+      ],
     }
   ],
 };
