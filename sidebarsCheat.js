@@ -15,6 +15,7 @@ const sidebars = {
           type: 'category',
           label: '2025/10',
           items: [
+            'hpjy/2025/10/YushengHepingPublicWelfareReformDocument/index',
             'hpjy/2025/10/REandPeaceFilePublicWelfarePAKV11/index',    // 创建文档
           ],
         },  
