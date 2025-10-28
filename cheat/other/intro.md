@@ -1,6 +1,6 @@
 ---
 id: intro
-title: 其他游戏
+title: 其他游戏介绍
 description: 分享免费游戏作弊
 keywords:
   - 科技分享

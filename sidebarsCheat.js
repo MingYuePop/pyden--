@@ -15,6 +15,7 @@ const sidebars = {
           type: 'category',
           label: '2025/10',
           items: [
+            'hpjy/2025/10/FSKernelPlus2.1/index',
             'hpjy/2025/10/YushengHepingPublicWelfareReformDocument/index',
             'hpjy/2025/10/REandPeaceFilePublicWelfarePAKV11/index',    // 创建文档
           ],
@@ -35,6 +36,9 @@ const sidebars = {
       label: '其他游戏',
       items: [
         'other/intro',
+        'other/LOLLEOPublicWelfareKernel/index',
+        'other/GrassStealingNotesBuiltinMODMenu/index',        
+        'other/KoreanFantasy/index',        
       ],
     }
   ],
