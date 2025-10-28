@@ -1,5 +1,5 @@
 ---
-title: PUBG宙斯ZEUS10.28更新
+title: PUBG宙斯ZEUS更新
 description: ZEUS宙斯PUBGM公益版本，修复自瞄功能，包含辅助文件和使用说明。
 keywords:
   - PUBG移动端
@@ -9,12 +9,12 @@ keywords:
   - 游戏辅助
 ---
 
-# PUBG宙斯ZEUS10.28更新
+# PUBG宙斯ZEUS更新
 
 ## 介绍
 ZEUS宙斯PUBGM公益版本，本次更新修复了自瞄功能。包含完整的辅助文件和使用说明，如遇到卡屏问题可长按音量+退出程序。
 
-![PUBG宙斯ZEUS10.28更新](image.png)
+![PUBG宙斯ZEUS更新](image.png)
 ## 下载
 
 | 下载 | 网盘链接 | 提取码 |
